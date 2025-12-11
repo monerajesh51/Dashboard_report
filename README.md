@@ -1,1 +1,2 @@
-# Dashboard_report
+# Dashboard_report on IPL-2025 Dataset using PowerBI
+Created an interactive IPL 2025 Dashboard using Power BI to analyze team performance, player statistics, match results, and season trends. The dashboard includes visual insights such as top run-scorers, wicket-takers, match outcomes, average runrate . Used data cleaning, DAX measures, and dynamic visuals to provide a clear and actionable overview of the IPL 2025 season.
